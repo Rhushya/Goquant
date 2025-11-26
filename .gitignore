@@ -9,3 +9,6 @@ node_modules/
 __pycache__/
 final-project/frontend/.next/
 final-project/frontend/.turbo/
+.next/
+playwright-report/
+test-results/
