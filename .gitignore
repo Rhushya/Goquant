@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+.vscode/
+*.pyc
+__pycache__/
+final-project/frontend/.next/
+final-project/frontend/.turbo/
