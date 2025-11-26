@@ -19,7 +19,7 @@ export class BasePage {
     return await this.page.textContent(selector) || ''
   }
 
-  async waitForElement(selector: string, timeout: number = 5000) {
+  async waitForElement(selector: string, timeout: number = 10000) {
     await this.page.waitForSelector(selector, { timeout })
   }
 

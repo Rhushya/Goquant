@@ -3,7 +3,7 @@ import { BasePage } from './BasePage'
 
 export class LoginPage extends BasePage {
   // Selectors
-  private emailInput = 'input[name="email"]'
+  private emailInput = 'input[name="login"]'
   private passwordInput = 'input[name="password"]'
   private loginButton = 'button[type="submit"]:has-text("Login")'
   private registerLink = 'a:has-text("Register")'
