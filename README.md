@@ -163,5 +163,11 @@ npm run codegen    # Record interactions
 - [shadcn/ui](https://ui.shadcn.com)
 - [Tailwind CSS](https://tailwindcss.com/docs)
 
+
+## DEMO
+
+https://github.com/user-attachments/assets/775d25f5-4ac6-43c5-84a8-186be291f7f1
+
+
 ---
 This single README now captures the essential information needed to set up, customize, test, and submit the Goquant QA assignment. Refer to the longer guides only when deeper detail is required.
